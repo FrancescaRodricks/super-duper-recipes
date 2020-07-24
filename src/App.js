@@ -10,6 +10,8 @@ import './App.css';
 
 const App = () => {
   return (
+   <>
+    <Header />
     <Router>
       <div>
         <nav>
@@ -35,15 +37,25 @@ const App = () => {
         </Switch>
       </div>
     </Router>
+    <Footer />
+   </>
   );
 };
 
 const Home = () => {
-  return <h2>Home</h2>;
+  return <h2>Nothing here yet at home:P </h2>;
 }
 
 const About = () => {
-  return <h2>About</h2>;
+  return <h2>Nothing here yet at about :P</h2>;
 }
+
+const Header = () => {
+  return null;
+};
+
+const Footer = () => {
+  return null;
+};
 
 export default App;
