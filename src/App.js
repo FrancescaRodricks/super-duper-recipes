@@ -11,16 +11,15 @@ import './App.css';
 const App = () => {
   return (
    <>
-    <Header />
     <Router>
       <div>
         <nav>
           <ul>
             <li>
-              <Link to="/">Home</Link>
+              <Link to="/super-duper-recipes">Home</Link>
             </li>
             <li>
-              <Link to="/about">About</Link>
+              <Link to="/super-duper-recipes/about">About</Link>
             </li>
           </ul>
         </nav>
@@ -28,10 +27,10 @@ const App = () => {
         {/* A <Switch> looks through its children <Route>s and
             renders the first one that matches the current URL. */}
         <Switch>
-          <Route path="/about">
+          <Route path="/super-duper-recipes/about">
             <About />
           </Route>
-          <Route path="/">
+          <Route path="/super-duper-recipes">
             <Home />
           </Route>
         </Switch>
@@ -49,10 +48,6 @@ const Home = () => {
 const About = () => {
   return <h2>Nothing here yet at about :P</h2>;
 }
-
-const Header = () => {
-  return null;
-};
 
 const Footer = () => {
   return null;
