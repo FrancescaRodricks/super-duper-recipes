@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2f470b6245f4dbac3395efc17ea52a3a",
+    "revision": "4dac6b83ee46ce49c8d245883020d78e",
     "url": "/super-duper-recipes/index.html"
   },
   {
-    "revision": "ccfe7c955bee4f9ca5b2",
+    "revision": "e400cd7b45eb68a9bf66",
     "url": "/super-duper-recipes/static/css/main.7e2bf0bb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/super-duper-recipes/static/js/2.b37416a1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ccfe7c955bee4f9ca5b2",
-    "url": "/super-duper-recipes/static/js/main.1b62bf09.chunk.js"
+    "revision": "e400cd7b45eb68a9bf66",
+    "url": "/super-duper-recipes/static/js/main.b16a79ee.chunk.js"
   },
   {
     "revision": "c588dd9541b603d468f5",
