@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/super-duper-recipes/precache-manifest.93e702e0357903207b885ea917cbb3df.js"
+  "/super-duper-recipes/precache-manifest.0c9cee23be3411daaf5a97404872440d.js"
 );
 
 self.addEventListener('message', (event) => {
