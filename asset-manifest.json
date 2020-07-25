@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/super-duper-recipes/static/css/main.751ca455.chunk.css",
-    "main.js": "/super-duper-recipes/static/js/main.ede68fa3.chunk.js",
-    "main.js.map": "/super-duper-recipes/static/js/main.ede68fa3.chunk.js.map",
+    "main.css": "/super-duper-recipes/static/css/main.8f3e9ad7.chunk.css",
+    "main.js": "/super-duper-recipes/static/js/main.14192f4b.chunk.js",
+    "main.js.map": "/super-duper-recipes/static/js/main.14192f4b.chunk.js.map",
     "runtime-main.js": "/super-duper-recipes/static/js/runtime-main.c7d5d398.js",
     "runtime-main.js.map": "/super-duper-recipes/static/js/runtime-main.c7d5d398.js.map",
     "static/js/2.db6f0a9e.chunk.js": "/super-duper-recipes/static/js/2.db6f0a9e.chunk.js",
     "static/js/2.db6f0a9e.chunk.js.map": "/super-duper-recipes/static/js/2.db6f0a9e.chunk.js.map",
     "index.html": "/super-duper-recipes/index.html",
-    "precache-manifest.0c9cee23be3411daaf5a97404872440d.js": "/super-duper-recipes/precache-manifest.0c9cee23be3411daaf5a97404872440d.js",
+    "precache-manifest.ac5589bd15d4e76fd1d1a1ac822f4eec.js": "/super-duper-recipes/precache-manifest.ac5589bd15d4e76fd1d1a1ac822f4eec.js",
     "service-worker.js": "/super-duper-recipes/service-worker.js",
-    "static/css/main.751ca455.chunk.css.map": "/super-duper-recipes/static/css/main.751ca455.chunk.css.map",
+    "static/css/main.8f3e9ad7.chunk.css.map": "/super-duper-recipes/static/css/main.8f3e9ad7.chunk.css.map",
     "static/js/2.db6f0a9e.chunk.js.LICENSE.txt": "/super-duper-recipes/static/js/2.db6f0a9e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c7d5d398.js",
     "static/js/2.db6f0a9e.chunk.js",
-    "static/css/main.751ca455.chunk.css",
-    "static/js/main.ede68fa3.chunk.js"
+    "static/css/main.8f3e9ad7.chunk.css",
+    "static/js/main.14192f4b.chunk.js"
   ]
 }
