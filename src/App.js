@@ -31,8 +31,18 @@ const App = () => {
 const Header = () => {
   return(
   <div className="header">
-    <h1>Recipes</h1>
-    <p>Authentic goan recipes from my Mama</p>
+    <h1>
+    <i class="fas fa-utensils"></i>
+    &nbsp; Recipes &nbsp;
+    <i class="fas fa-utensils"></i>
+    </h1>
+    <i class="fas fa-fish"></i>
+    &nbsp;
+    <i class="fas fa-drumstick-bite"></i>
+    &nbsp;
+    <i class="fas fa-pepper-hot"></i>
+    &nbsp;
+    <p>Authentic goan recipes by my Mama</p>
   </div>
   )
 };
