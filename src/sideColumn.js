@@ -14,7 +14,31 @@ const SideColumn = () => {
     </div>
     <div className="card">
       <h3>Follow Me</h3>
-      <p>Some text</p>
+      <ul>
+        <li>
+           <i className="fab fa-github">
+            &nbsp;<a href="https://github.com/FrancescaRodricks"  rel="noopener noreferrer" target="_blank">Github</a>
+          </i>
+        </li>
+        <br/>
+        <li>
+           <i className="fab fa-instagram">
+            &nbsp;<a href="https://www.instagram.com/francescarodricks/"  rel="noopener noreferrer" target="_blank">Instagram</a>
+          </i>
+        </li>
+        <br/>
+        <li>
+          <i className="fab fa-facebook">
+            &nbsp;<a href="https://www.facebook.com/francesca.rodricks"  rel="noopener noreferrer" target="_blank">Facebook</a>
+          </i>
+        </li>
+        <br/>
+        <li>
+          <i className="fab fa-twitter">
+            &nbsp;<a href="https://twitter.com/franky0388"  rel="noopener noreferrer" target="_blank">Twitter</a>
+          </i>
+        </li>
+      </ul>
     </div>
   </div>)
 }
