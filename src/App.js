@@ -68,7 +68,7 @@ const Header = () => {
 const Footer = () => {
   return(
     <div className="footer">
-      <h2>Francesca L Rodricks ™</h2>
+      <h2>Francesca Rodricks ™ {new Date().getFullYear()}</h2>
     </div>
   );
 };
